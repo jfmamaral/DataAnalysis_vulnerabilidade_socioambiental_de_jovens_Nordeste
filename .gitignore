@@ -1,0 +1,8 @@
+#ignorar ambiente virtual
+LeonardVenv/
+
+#ignorar dados coletados não utilizados
+General Data/
+
+#ignorar pasta de relatórios
+Relatório/
